@@ -1,5 +1,5 @@
 # qxf2-blog-comment-classifier
-This is a comment classification model built for classifying Qxf2 blog comments as spam or not spam. This was built for learning machine Learning and can be used for testing ML models. It also hosted using streamlit
+This is a comment classification model built for classifying Qxf2 blog comments as spam or not spam. This was built for learning how to develop some Machine Learning models and can be used for testing ML models.
 
 ### LOCAL SETUP
 1. Create a virtual environment for yourself (we used Python 3.8)
